@@ -1,0 +1,11 @@
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\bin\Debug\net8.0\Custify.Domain.deps.json
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\bin\Debug\net8.0\Custify.Domain.dll
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\bin\Debug\net8.0\Custify.Domain.pdb
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\obj\Debug\net8.0\Custify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\obj\Debug\net8.0\Custify.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\obj\Debug\net8.0\Custify.Domain.AssemblyInfo.cs
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\obj\Debug\net8.0\Custify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\obj\Debug\net8.0\Custify.Domain.dll
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\obj\Debug\net8.0\refint\Custify.Domain.dll
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\obj\Debug\net8.0\Custify.Domain.pdb
+C:\Users\MERVE\source\repos\CustifyPro\Custify.Domain\obj\Debug\net8.0\ref\Custify.Domain.dll
