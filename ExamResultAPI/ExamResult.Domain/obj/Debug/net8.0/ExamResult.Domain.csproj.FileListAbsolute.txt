@@ -1,0 +1,11 @@
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\bin\Debug\net8.0\ExamResult.Domain.deps.json
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\bin\Debug\net8.0\ExamResult.Domain.dll
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\bin\Debug\net8.0\ExamResult.Domain.pdb
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\obj\Debug\net8.0\ExamResult.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\obj\Debug\net8.0\ExamResult.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\obj\Debug\net8.0\ExamResult.Domain.AssemblyInfo.cs
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\obj\Debug\net8.0\ExamResult.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\obj\Debug\net8.0\ExamResult.Domain.dll
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\obj\Debug\net8.0\refint\ExamResult.Domain.dll
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\obj\Debug\net8.0\ExamResult.Domain.pdb
+C:\Users\MERVE\source\repos\ExamResultAPI\ExamResult.Domain\obj\Debug\net8.0\ref\ExamResult.Domain.dll

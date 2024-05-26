@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\source\\repos\\ExamResultAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65F9F75-07D2-43EE-90A6-A40E69FA3FB8}|ExamResultAPI\\ExamResultAPI.csproj|c:\\users\\merve\\source\\repos\\examresultapi\\examresultapi\\controllers\\examresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65F9F75-07D2-43EE-90A6-A40E69FA3FB8}|ExamResultAPI\\ExamResultAPI.csproj|solutionrelative:examresultapi\\controllers\\examresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E2531-2449-4FEE-A4AB-8F1931E42F0A}|ExamResult.Domain\\ExamResult.Domain.csproj|c:\\users\\merve\\source\\repos\\examresultapi\\examresult.domain\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E2531-2449-4FEE-A4AB-8F1931E42F0A}|ExamResult.Domain\\ExamResult.Domain.csproj|solutionrelative:examresult.domain\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamResult.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\source\\repos\\ExamResultAPI\\ExamResult.Domain\\ExamResult.cs",
+              "RelativeDocumentMoniker": "ExamResult.Domain\\ExamResult.cs",
+              "ToolTip": "C:\\Users\\MERVE\\source\\repos\\ExamResultAPI\\ExamResult.Domain\\ExamResult.cs",
+              "RelativeToolTip": "ExamResult.Domain\\ExamResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:48:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamResultController.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\source\\repos\\ExamResultAPI\\ExamResultAPI\\Controllers\\ExamResultController.cs",
+              "RelativeDocumentMoniker": "ExamResultAPI\\Controllers\\ExamResultController.cs",
+              "ToolTip": "C:\\Users\\MERVE\\source\\repos\\ExamResultAPI\\ExamResultAPI\\Controllers\\ExamResultController.cs",
+              "RelativeToolTip": "ExamResultAPI\\Controllers\\ExamResultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:47:24.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
