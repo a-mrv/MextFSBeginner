@@ -1,0 +1,11 @@
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\bin\Debug\net8.0\TicketApp.Domain.deps.json
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\bin\Debug\net8.0\TicketApp.Domain.dll
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\bin\Debug\net8.0\TicketApp.Domain.pdb
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\obj\Debug\net8.0\TicketApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\obj\Debug\net8.0\TicketApp.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\obj\Debug\net8.0\TicketApp.Domain.AssemblyInfo.cs
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\obj\Debug\net8.0\TicketApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\obj\Debug\net8.0\TicketApp.Domain.dll
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\obj\Debug\net8.0\refint\TicketApp.Domain.dll
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\obj\Debug\net8.0\TicketApp.Domain.pdb
+C:\Users\MERVE\source\repos\Ticket\TicketApp.Domain\obj\Debug\net8.0\ref\TicketApp.Domain.dll

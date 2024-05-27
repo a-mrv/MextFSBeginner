@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TicketApp.Presentation/1.0.0": {
+        "dependencies": {
+          "TicketApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TicketApp.Presentation.dll": {}
+        }
+      },
+      "TicketApp.Domain/1.0.0": {
+        "runtime": {
+          "TicketApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicketApp.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicketApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
